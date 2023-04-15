@@ -6,7 +6,7 @@ El programa al momento realizar el pago, consulta en coinmarket cap el equivalen
 de BNB correspondiente.
 El contrato es ownable por si se quiere cambiar de titular.
 
-**Nota**
+**Nota:**
 Se eligió de inspiración el video de la quinta semana, ya que es uno de los más relevantes al mostrar la integración contrato inteligente desplegado en la blockchain 
 de pruebas de binance y una aplicación web.
 
