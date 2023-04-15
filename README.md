@@ -66,12 +66,12 @@ contract Forwarder is Ownable {
 * NextJS 13
 * Tailwindcss
 
-**Instalación:
+**Instalación:**
 
-*Ejecutar el comando
+* Ejecutar el comando
 git clone https://github.com/sergiotechx/web3mastery
 
-*Vambiar al directorio web y ejecutar: npm install
+* Cambiar al directorio web y ejecutar: npm install
 
 **OBSERVACIONES**
 En el raiz del directorio web crear el siguiente archivo:
