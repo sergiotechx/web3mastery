@@ -61,3 +61,20 @@ contract Forwarder is Ownable {
 * Thirdwweb SDK
 * NextJS 13
 * Tailwindcss
+
+**OBSERVACIONES**
+En el raiz del directorio web crear el siguiente archivo:
+
+**.env.local** con  lo siguiente:
+
+NEXT_PUBLIC_CMC_KEY="Su api key del CMC"
+
+Como se ejecuta localkente va a salir un error de CORS al ejecutar el llamado al api, para solucionar esto se sugiere instalar el siguiente plugin;
+[](https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf?hl=es)
+
+**Ejecución:**
+
+Ir a la carpeta, ejecutar: npm run dev
+
+Esto abre un localhost en el puerto 3000
+
