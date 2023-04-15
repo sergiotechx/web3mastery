@@ -10,7 +10,7 @@ El contrato es ownable por si se quiere cambiar de titular.
 
 [https://thirdweb.com/binance-testnet/0x797EE01EC467F22333d1DB9b3D19D2dFD2a83eC2](https://thirdweb.com/binance-testnet/0x797EE01EC467F22333d1DB9b3D19D2dFD2a83eC2)
 
-Contrato : fordware.sol
+Contrato : Forwarder.sol
 ``` solidity 
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.19;
