@@ -1,5 +1,5 @@
 # web3mastery
-trabajo final web3 mastery
+Trabajo final web3 mastery
 **Botón de donación**
 
 El programa al momento realizar el pago, consulta en coinmarket cap el equivalente de 1 dolar al dueño del contrato y le hace el respectivo envio en la cantidad
